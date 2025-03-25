@@ -16,6 +16,7 @@ int main(){
 		        printf("Electronics and Communication Engineering.\n");
 		case 4:
 			printf("You selected Btech(Mechanical).\n");
+			printf("Mechanical Engineering.\n");
 	}
         return 0;
 }
