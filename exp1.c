@@ -13,6 +13,7 @@ int main(){
 			printf("Artificial Intelligence and Machine Learning.\n")
 		case 3:
 			printf("You selected Electronics and Communication.\n");
+		        printf("Electronics and Communication Engineering.\n");
 		case 4:
 			printf("You selected Btech(Mechanical).\n");
 	}
